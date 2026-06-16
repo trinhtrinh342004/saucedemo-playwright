@@ -239,11 +239,3 @@ npx playwright test tests/visual
 | Supported browsers | Chromium, Firefox, WebKit, Pixel 5, iPhone 12 |
 | CI execution time | Tracked in GitHub Actions per workflow run |
 | Framework version | 1.0.0 |
-
-## Author
-
-**QA Automation Engineer**
-
-- GitHub: [@ecureuill](https://github.com/ecureuill)
-- Project: [saucedemo-playwright](https://github.com/ecureuill/saucedemo-playwright)
-- Focus areas: Playwright, TypeScript, CI/CD, Page Object Model, E2E automation, and regression testing strategy.
